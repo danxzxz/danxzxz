@@ -39,8 +39,8 @@
 
 <h2> Social Medias </h2>
 <p align="center">
-<a href="https://instagram.com/danxz.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danxz.z" height="30" width="100" /></a>
-<a href="https://discord.gg/danxz.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="danxz.z" height="30" width="100" /></a>
+<a href="https://instagram.com/danxz.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danxz.z" height="50" width="50" /></a>
+<a href="https://discord.gg/danxz.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="danxz.z" height="50" width="50" /></a>
 <div align="center">  
 <a href = "mailto:daniel.medeiros.tds2023@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
