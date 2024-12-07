@@ -12,6 +12,16 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danxzxz&bg_color=000000&color=91AC8F&line=91AC8F&point=91AC8F=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br></br>
+
+<h2>About me</h2>
+<div>
+->I'm currently attending high school integrated with Systems Development at IFPR.
+
+->I'm 16 years old.
+  
+- Ask me about anything on my [instagram](https://www.instagram.com/danxz.z/) or on my [email](mailto:daniel.medeiros.tds2023@gmail.com).
+</div>
 
 
 <div align="center">  
