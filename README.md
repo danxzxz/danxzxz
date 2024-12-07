@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danxzxzS&show_icons=true&count_private=true&hide_border=true&title_color=91AC8F&icon_color=91AC8F&text_color=c9d1d9&bg_color=0d1117" alt="s" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAraujoTDS&layout=compact&hide_border=true&title_color=91AC8F&text_color=91AC8F&bg_color=0d1117" />
+ 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxzxz&layout=compact&hide_border=true&title_color=91AC8F&text_color=91AC8F&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danxzxz&bg_color=000000&color=91AC8F&line=91AC8F&point=91AC8F=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
