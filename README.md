@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91AC8F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFF&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B5945&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Daniel!;Welcome+to+my+profile!;%20)](https://git.io/typing-svg)
 
@@ -7,10 +7,10 @@
 
   <img src="https://media.giphy.com/media/1lAKlD704T8hNiEwlx/giphy.gif" width="200px" border-radius="40%" />
  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxzxz&layout=compact&hide_border=true&title_color=91AC8F&text_color=91AC8F&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxzxz&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danxzxz&bg_color=000000&color=91AC8F&line=91AC8F&point=91AC8F=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danxzxz&bg_color=000000&color=fff&line=fff&point=fff=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br></br>
 
@@ -53,4 +53,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{danxzxz}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91AC8F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
