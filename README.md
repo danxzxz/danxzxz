@@ -5,7 +5,7 @@
 
 <div align="center">  
 
-  <img src="https://media.giphy.com/media/1lAKlD704T8hNiEwlx/giphy.gif" width="220px" border-radius="40%" />
+  <img src="https://media.giphy.com/media/1lAKlD704T8hNiEwlx/giphy.gif" width="200px" border-radius="40%" />
  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxzxz&layout=compact&hide_border=true&title_color=91AC8F&text_color=91AC8F&bg_color=0d1117" />
 </div>
