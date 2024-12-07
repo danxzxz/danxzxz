@@ -5,7 +5,7 @@
 
 <div align="center">  
 
-  <img src="https://logodownload.org/wp-content/uploads/2016/11/botafogo-logo-0.png" width="200px" border-radius="40%" />
+  <img src="https://logodownload.org/wp-content/uploads/2016/11/botafogo-logo-0.png" width="250px"/>
  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxzxz&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
