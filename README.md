@@ -4,8 +4,6 @@
 
 
 <div align="center">  
-
-  <img src="https://logodownload.org/wp-content/uploads/2016/11/botafogo-logo-0.png" width="250px"/>
  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danxzxz&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
@@ -24,14 +22,8 @@
 </div>
 
 
-
-
-
 <div align="center">
 <h2> Languages </h2>
-  
-
-
   
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
